@@ -1,8 +1,8 @@
-package com.pet.task_manager.controllers;
+package com.pet.budget_manager.controllers;
 
-import com.pet.task_manager.dto.TaskDto;
-import com.pet.task_manager.entities.Task;
-import com.pet.task_manager.services.TaskService;
+import com.pet.budget_manager.dto.TaskDto;
+import com.pet.budget_manager.entities.Task;
+import com.pet.budget_manager.services.TaskService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

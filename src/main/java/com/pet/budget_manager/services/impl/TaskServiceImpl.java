@@ -1,8 +1,8 @@
-package com.pet.task_manager.services.impl;
+package com.pet.budget_manager.services.impl;
 
-import com.pet.task_manager.entities.Task;
-import com.pet.task_manager.repositories.TaskRepository;
-import com.pet.task_manager.services.TaskService;
+import com.pet.budget_manager.entities.Task;
+import com.pet.budget_manager.repositories.TaskRepository;
+import com.pet.budget_manager.services.TaskService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
