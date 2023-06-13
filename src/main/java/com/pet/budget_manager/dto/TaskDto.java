@@ -1,4 +1,4 @@
-package com.pet.task_manager.dto;
+package com.pet.budget_manager.dto;
 
 import lombok.Data;
 

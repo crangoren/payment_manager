@@ -1,6 +1,6 @@
-package com.pet.task_manager.services;
+package com.pet.budget_manager.services;
 
-import com.pet.task_manager.entities.Task;
+import com.pet.budget_manager.entities.Task;
 
 
 public interface TaskService {
